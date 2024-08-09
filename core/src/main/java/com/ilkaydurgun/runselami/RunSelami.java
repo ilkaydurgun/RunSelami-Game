@@ -6,7 +6,7 @@ import com.badlogic.gdx.graphics.GL20;
 import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.badlogic.gdx.utils.ScreenUtils;
-
+//Start
 /** {@link com.badlogic.gdx.ApplicationListener} implementation shared by all platforms. */
 public class RunSelami extends ApplicationAdapter {
     private SpriteBatch batch;
